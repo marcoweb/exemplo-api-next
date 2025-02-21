@@ -1,0 +1,7 @@
+GET https://zany-journey-gx4ppj69r6fvgwg-3000.app.github.dev/api/teste
+
+###
+POST https://zany-journey-gx4ppj69r6fvgwg-3000.app.github.dev/api/teste
+Content-Type: application/json
+
+{"id" : 10, "titulo" : "POST"}
